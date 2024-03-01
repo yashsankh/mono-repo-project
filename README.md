@@ -16,17 +16,6 @@ Higher Level Diagram (HLD): A block diagram indicating interaction between diffe
 Lower Level Diagram (LLD): A UML class diagram of all the classes to be implemented, designed with suitable attributes and methods.
 Implementation: Java programming language is used for implementation.
 
-travelplanner/
-│
-├── src/
-│   ├── main/
-│   │   └── java/
-│   │       ├── models/          # Contains classes representing travel packages, destinations, activities, and passengers
-│   │       ├── services/        # Contains services for managing travel packages and passengers
-│   │       └── Main.java        # Main class to run the application
-└── diagrams/                    # Folder containing diagrams
-    ├── Higher_Level_diagram.png    # HLD diagram image
-    └── Lower_Level_diagram.png     # LLD diagram image
 
 ## Contributors
 Yash Sankh
